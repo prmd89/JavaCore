@@ -1,5 +1,5 @@
 package core.basic;
-
+// student class
 public class Student {
 	String firstName;
 	String lastName;
