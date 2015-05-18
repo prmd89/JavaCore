@@ -3,10 +3,7 @@ package core.basic;
 import java.util.*;
 
 public class Frequency {
-
-	/**
-	 * @param args
-	 *///
+//frequency
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String inputString = "ddzzzzhjkeeeekkmmlllll";
