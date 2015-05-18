@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Frequency {
 //frequency
+	// update showw
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String inputString = "ddzzzzhjkeeeekkmmlllll";
