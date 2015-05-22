@@ -2,6 +2,7 @@ package myProject1;
 
 import java.io.Serializable;
 
+@SuppressWarnings("serial")
 public class UserTo implements Serializable{
 private String userId;
 private String firstName;
