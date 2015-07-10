@@ -1,7 +1,7 @@
 package Lab1;
 
 public class Customer {
-	private int cid;
+	private int cid;//new code
 	private String cname;
 	private String email;
 	private long phone;
