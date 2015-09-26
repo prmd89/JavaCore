@@ -6,6 +6,7 @@ import org.hibernate.cfg.*;
 public class CHibernateUtil {
 static SessionFactory factory;
 static{
+	//ok
 	try{
 		Configuration cfg=new Configuration();
 		cfg=cfg.configure();
